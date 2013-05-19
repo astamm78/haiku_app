@@ -21,7 +21,6 @@ gem 'bcrypt-ruby'
 
 gem 'heroku'
 gem 'pg'
-gem 'taps'
 
 
 group :test do
