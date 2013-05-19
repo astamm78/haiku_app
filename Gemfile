@@ -20,8 +20,9 @@ gem 'shotgun'
 gem 'bcrypt-ruby'
 
 gem 'heroku'
+gem 'pg'
+gem 'taps'
 
-gem 'heroku-taps'
 
 group :test do
   gem 'faker'
